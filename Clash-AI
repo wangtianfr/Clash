@@ -123,7 +123,6 @@ custom_proxy_group=加拿大家宽-全`url-test`(加拿大.*家宽|Videotron)`ht
 custom_proxy_group=东南亚-低倍率`url-test`(^(?!.*?(2x|3x|4x|5x|10x|20x|2X|3X|4X|5X|10X|20X)).*(马尔代夫|柬埔寨|泰国|缅甸|老挝|越南|菲律宾|印尼|Indonesia|PH|TH|Vietnam|Cambodia).*$)`https://cp.cloudflare.com/generate_204`300,,50
 custom_proxy_group=东南亚家宽-低倍率`url-test`(^(?!.*?(2x|3x|4x|5x|10x|20x|2X|3X|4X|5X|10X|20X)).*(马尔代夫.*家宽|柬埔寨.*家宽|泰国.*家宽|缅甸.*家宽|老挝.*家宽|越南.*家宽|菲律宾.*家宽|印尼.*家宽|VNPT).*$)`https://cp.cloudflare.com/generate_204`300,,50
 custom_proxy_group=东南亚家宽-全`url-test`(马尔代夫.*家宽|柬埔寨.*家宽|泰国.*家宽|缅甸.*家宽|老挝.*家宽|越南.*家宽|菲律宾.*家宽|印尼.*家宽|VNPT)`https://cp.cloudflare.com/generate_204`300,,50
-
 ;设置分组标志位
 
 ;下方参数请勿修改
